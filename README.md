@@ -8,7 +8,7 @@ My current closed-source projects are running a new UI designed in 2020 to be mo
 
 # Python
 While learning Python, I made a Battle Arena game to improve my skills
-![BattleRPG]((https://github.com/MemeGoddess/Portfolio/blob/main/Images/BattleRPG.png?raw=true))
+![BattleRPG](https://github.com/MemeGoddess/Portfolio/blob/main/Images/BattleRPG.png?raw=true)
 
 As well as a Smithing XP calculator for RuneScape
 ![SmithingXP](https://github.com/MemeGoddess/Portfolio/blob/main/Images/SmithingXPRedux.png?raw=true)
